@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Md Nazmos Sakib. 👋
+
+#Computer science MSc student at Hochschule Schmalkalden university and Bachelor's graduate in computer science and engineering from North Western university. Skilled in Android app development, Java, and Python. Passionate about coding and building software that solves real-world problems. Let's collaborate and create something amazing!
 
 <!--
 **nazmos-sakib/nazmos-sakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Android (Java+Kotlin)
+- 👯 I’m looking to collaborate
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=nazmos-sakib&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515">
