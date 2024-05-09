@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=nazmos-sakib&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515"><br />
 <div align="">&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmos-sakib&theme=tokyonight&hide_border=true" alt="Md Nazmos Sakib" /></div>
 <div align="">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmos-sakib&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Md Nazmos Sakib" /></div>
+
+
+
+[website]: 
+[linkedin]: https://www.linkedin.com/in/md-nazmos-sakib-2a5256259
+[leetcode]: https://leetcode.com/u/MdNazmosSakib/
