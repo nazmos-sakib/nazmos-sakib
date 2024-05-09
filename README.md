@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### Have knowledge In:
+### Other Expertise:
 <img align="left" alt="HTML5" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/html.svg" />
 <img align="left" alt="CSS3" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/css.svg" />
 <img align="left" alt="BOOTSATRAP" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/bootstrap.svg" />
