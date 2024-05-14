@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <img align="left" alt="java" height="25px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
 <img align="left" alt="kotlin" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
 <img align="left" alt="gradle" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Gradle_logo.svg" />
-<img align="left" alt="android studio" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" />
+<img align="left" alt="android studio" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
+<img align="left" alt="IntelliJ_IDEA" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" />
 <img align="left" alt="python" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/python-horizontal.svg" />
 <img align="left" alt="Spring_Boot" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
 <img align="left" alt="Linux" height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
