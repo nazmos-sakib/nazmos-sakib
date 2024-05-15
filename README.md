@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Raspberry pi" height="25px" src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" />
 <img align="left" alt="c++" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
-
-<br>
+<br />
+<br />
 
 ### Other Expertise:
 <p>
