@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <!-- -->
 
-[website]: https://www.linkedin.com/in/md-nazmos-sakib-2a5256259
+[website]:  https://nazmos-sakib.github.io/
 [linkedin]: https://www.linkedin.com/in/md-nazmos-sakib-2a5256259
 [leetcode]: https://leetcode.com/u/MdNazmosSakib/
 [hackerrank]: https://www.hackerrank.com/nazmos_sakib
