@@ -1,5 +1,8 @@
 <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nazmos+Sakib;" />
+</h1>
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nazmos's%20GitHub&fontSize=60) -->
 
 <h3 align="center">An Android developer</h3>
  
