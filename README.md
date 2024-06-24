@@ -1,7 +1,9 @@
-### Hi there, I am Md Nazmos Sakib. 👋
+<h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nazmos+Sakib;" />
 
-<h3 align="left">An Android developer</h3>
-# Computer science MSc student at Hochschule Schmalkalden university and Bachelor's graduate in computer science and engineering from North Western university. Skilled in Android app development, Java, and Python. Passionate about coding and building software that solves real-world problems. Let's collaborate and create something amazing!
+<h3 align="center">An Android developer</h3>
+ 
+Computer science MSc student at Hochschule Schmalkalden university and Bachelor's graduate in computer science and engineering from North Western university. Skilled in Android app development, with Kotlin Java. Passionate about coding and building software that solves real-world problems. Let's collaborate and create something amazing!
 
 <img src="https://komarev.com/ghpvc/?username=nazmos-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="nazmos-sakib" />
 
@@ -32,6 +34,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<!-- div align="center">
+    <img src="https://skillicons.dev/icons?i=android,java,kotlin,gradle,androidstudio,idea,python,spring,anaconda" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,flask" /><br>
+</div -->
+
+
 ### Languages and Tools:
 <img align="left" alt="android" height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
 <img align="left" alt="java" height="25px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
@@ -60,7 +68,6 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/css.svg" />
 <img align="left" alt="BOOTSATRAP" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/bootstrap.svg" />
 <img align="left" alt="JavaScript" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/js.svg" />
-<img align="left" alt="Typescript" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/typescript.png" />
 <img align="left" alt="vue" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/main/programming%20icons/vuejs.svg" />
 <img align="left" alt="node" height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Visual Studio Code" height="25px" src="https://raw.githubusercontent.com/meinjam/programming-icons/7f7d35422aeafe16e60bac363bdd6b8a620bef79/programming%20icons/vscode-original.svg" />
