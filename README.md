@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Wort-Gewandt](https://github.com/nazmos-sakib/Wort-Gewandt)
+- 🔭 I’m currently working on [Target-Log](https://github.com/nazmos-sakib/Target-Log)
 - 👯 I’m looking to collaborate
 
 ### Connect with me:
